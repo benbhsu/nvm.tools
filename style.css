@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content */
+
+html, body, div, iframe 
+{
+  margin: 0px; 
+  padding: 0px; 
+  height: 100%; 
+  border: none;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+iframe 
+{
+  display: block; 
+  width: 100%; 
+  border: none; 
+  overflow-y: auto; 
+  overflow-x: hidden;
+}
