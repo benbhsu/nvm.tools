@@ -1,0 +1,8 @@
+{
+  "name": "nvm.tools",
+  "short_name": "nvm.tools",
+  "lang": "en-US",
+  "start_url": "https://nvm.tools",
+  "scope": "https://airtable.com/",
+  "display": "standalone"
+}
